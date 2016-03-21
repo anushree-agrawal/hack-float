@@ -210,10 +210,8 @@ hr.small {
     opacity: 0.8;
 }
 .logo {
-    height: auto; 
-    width: auto; 
-    max-width: 100px; 
-    max-height: 100px;
+    max-width: 50%; 
+    max-height: 50%;
 }
 
 /* Call to Action */
