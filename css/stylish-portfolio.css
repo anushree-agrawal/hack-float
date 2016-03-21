@@ -212,8 +212,8 @@ hr.small {
 .logo {
     height: auto; 
     width: auto; 
-    max-width: 300px; 
-    max-height: 300px;
+    max-width: 100px; 
+    max-height: 100px;
 }
 
 /* Call to Action */
