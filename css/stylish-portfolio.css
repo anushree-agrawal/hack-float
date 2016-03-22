@@ -40,14 +40,14 @@ body {
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,0.8);
 }
 
 .btn-dark:hover,
 .btn-dark:focus,
 .btn-dark:active {
     color: #fff;
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0,0,0,1.0);
 }
 
 .btn-light {
@@ -226,6 +226,12 @@ hr.small {
 .call-to-action {
     padding: 50px 0;
     background-color: #1BA8C6;
+}
+.call-to-action a:link{
+    color: #fff;
+}
+.call-to-action a:visited {
+    color: #fff;
 }
 
 .call-to-action .btn {
